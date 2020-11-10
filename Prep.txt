@@ -3,3 +3,7 @@ this is the prep for the github
  commit
  push 
  pull
+
+this is how to make a second branch
+
+-THANKYOU
